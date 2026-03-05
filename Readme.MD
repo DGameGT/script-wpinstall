@@ -1,5 +1,5 @@
 # WordPress Auto Installer
-by DGXO - github.com/DGameGT
+by DGameXO - github.com/DGameGT
 
 Script otomatis untuk install WordPress di Ubuntu 22.04 dengan Nginx, PHP 8.1, dan MariaDB. Cocok untuk deploy WordPress di LXC Proxmox.
 
@@ -70,11 +70,14 @@ https://DOMAIN_KAMU/wp-admin
 
 ---
 
-## Publish ke Internet (Cloudflare Tunnel)
+## Publish ke Internet (Cloudflare Tunnel) — Opsional
 
-Agar website bisa diakses dari internet tanpa membuka port router, gunakan Cloudflare Tunnel.
+Jika kamu ingin website bisa diakses dari internet **tanpa membuka port router dan tanpa public IP**, kamu bisa menggunakan Cloudflare Tunnel.
 
 Dokumentasi lengkap: [How-to-install-Cloudflared-in-Linux](https://github.com/DGameGT/How-to-install-Cloudflared-in-Linux)
+
+> **Tidak pakai Cloudflare Tunnel?**  
+> Tidak masalah! Kamu bisa skip bagian ini jika sudah punya public IP atau menggunakan metode lain seperti reverse proxy atau port forwarding dari router.
 
 ---
 
