@@ -11,7 +11,7 @@ Klik tombol **Fork** di pojok kanan atas halaman GitHub.
 
 ### 2. Clone repo hasil fork kamu
 ```bash
-git clone https://github.com/DGameGT/wpinstall.git
+git clone https://github.com/DGameGT/script-wpinstall.git
 cd wpinstall
 ```
 
@@ -72,7 +72,7 @@ docs: update README bagian CF Tunnel
 
 ## Melaporkan Bug
 
-Buka [Issues](https://github.com/DGameGT/wpinstall/issues) dan sertakan:
+Buka [Issues](https://github.com/DGameGT/script-wpinstall/issues) dan sertakan:
 - Versi OS yang digunakan
 - Langkah untuk mereproduksi bug
 - Output error yang muncul
