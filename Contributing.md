@@ -72,7 +72,7 @@ docs: update README bagian CF Tunnel
 
 ## Melaporkan Bug
 
-Buka [Issues](https://github.com/DGameGT/wpinstaller/issues) dan sertakan:
+Buka [Issues](https://github.com/DGameGT/wpinstall/issues) dan sertakan:
 - Versi OS yang digunakan
 - Langkah untuk mereproduksi bug
 - Output error yang muncul
