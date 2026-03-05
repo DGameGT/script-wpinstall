@@ -11,8 +11,8 @@ Klik tombol **Fork** di pojok kanan atas halaman GitHub.
 
 ### 2. Clone repo hasil fork kamu
 ```bash
-git clone https://github.com/DGameGT/wpinstall.ig
-cd wordpress-installer
+git clone https://github.com/DGameGT/wpinstall.git
+cd wpinstaller
 ```
 
 ### 3. Buat branch baru
